@@ -11,6 +11,6 @@ scipy >= 1.6.0
 wandb >= 0.12.14
 tensorflow-probability >= 0.17.0
 dmcgym @ git+https://github.com/ikostrikov/dmcgym
-d4rl @ git+https://github.com/Farama-Foundation/D4RL
+d4rl @ git+https://github.com/nakge1206/D4RL
 moviepy
 imageio
